@@ -17,6 +17,7 @@ decide repodruzir em React Native.
 - [Typescript](https://www.typescriptlang.org)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Styled Components](https://styled-components.com)
+- [API The Movie DB](https://www.themoviedb.org/?language=pt-BR)
 - [React native reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
 ### Instalação
