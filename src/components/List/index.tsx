@@ -1,6 +1,5 @@
 import React from 'react'
 import { NativeScrollEvent, NativeSyntheticEvent } from 'react-native'
-import { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 
 import { Movie } from '../../model/Discover'
 import { Header } from './Header'
