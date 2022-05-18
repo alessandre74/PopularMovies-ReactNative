@@ -6,7 +6,7 @@
 
 Popular Movies é um aplicativo de filmes populares com base no video
 do Youtube de Raphael Cerqueira feito originalmente em SwiftUI, porém
-decide repodruzir em React Native.
+decide reproduzir em React Native.
 
 - [Video original feito em SwiftUI](https://www.youtube.com/watch?v=9STy4_0aD60)
 

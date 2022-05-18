@@ -4,7 +4,7 @@ import * as S from './styles'
 export function Header() {
   return (
     <S.Header>
-      <S.Title>Popular Moveis</S.Title>
+      <S.Title>Popular Movies</S.Title>
     </S.Header>
   )
 }

@@ -39,7 +39,7 @@ export function Home() {
         <>
           <S.AnimatedHeader style={[headerStyleAnimation]}>
             <S.BlurHeader>
-              <S.Title>Popular Moveis</S.Title>
+              <S.Title>Popular Movies</S.Title>
             </S.BlurHeader>
           </S.AnimatedHeader>
           <List movies={movies} onScroll={scrollHandler} />
